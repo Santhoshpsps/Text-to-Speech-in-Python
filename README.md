@@ -6,3 +6,9 @@ gTTS is a very easy to use tool which converts the text entered, into audio whic
 
 The gTTS API supports several languages including English, Hindi, Tamil, French, German and many more. 
 The speech can be delivered in any one of the two available audio speeds, fast or slow.
+
+
+
+OUTPUT: 
+The output of the program should be a 
+voice saying, 'There is light at the end of the tunnel' which is saved as demo.mp3 in your pc.
