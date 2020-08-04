@@ -5,7 +5,7 @@ One of such APIs is the Google Text to Speech API commonly known as the gTTS API
 gTTS is a very easy to use tool which converts the text entered, into audio which can be saved as a mp3 file.
 
 <p align="center">
-<img src="https://github.com/Santhoshpsps/Text-to-Speech-in-python/conversion.PNG" height="400" width="500">
+<img src="https://github.com/Santhoshpsps/Text-to-Speech-in-Python/blob/master/conversion.png" height="400" width="500">
  </p>
 
 The gTTS API supports several languages including English, Hindi, Tamil, French, German and many more. 
