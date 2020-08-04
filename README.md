@@ -14,11 +14,9 @@ gTTS is a very easy to use tool which converts the text entered, into audio whic
  
  
 Features:
-     Customizable speech-specific sentence tokenizer that allows for unlimited lengths of text to be read, all while keeping proper intonation, abbreviations, decimals and more.
-     
-     Customizable text pre-processors which can, for example, provide pronunciation corrections.
-     
-     Automatic retrieval of supported languages.
+    --> Customizable speech-specific sentence tokenizer that allows for unlimited lengths of text to be read, all while keeping proper intonation, abbreviations, decimals and more.
+    --> Customizable text pre-processors which can, for example, provide pronunciation corrections.
+    -->Automatic retrieval of supported languages.
 
 
 The gTTS API supports several languages including English, Hindi, Tamil, French, German and many more. 
